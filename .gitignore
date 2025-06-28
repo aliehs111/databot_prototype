@@ -1,0 +1,36 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*.so
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# VS Code settings (if you're using VS Code)
+.vscode/
+
+# Virtual environment directories
+env/
+venv/
+.nox/
+.env/
+.nlp-dev/
+
+# Data files
+data/raw/
+data/cleaned/
+*.csv
+*.xlsx
+*.tsv
+
+# Secret config
+.env
+*.env
+openai_key.txt
+
+# MacOS / system files
+.DS_Store
+
+# Logs and outputs
+*.log
+logs/
